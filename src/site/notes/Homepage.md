@@ -3,9 +3,6 @@
 ---
 
 
+![](https://pic.imgdb.cn/item/63986664b1fccdcd367d5c70.png)
 
-![](https://cdn.jsdelivr.net/gh/2019YKL/hexo-imag/2022/image-63957f01b1fccdcd363df8aa.png)
-
-## 摘抄
-
-这是最后一次尝试
+这里是我用Obsidian建立的数字花园
